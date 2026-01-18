@@ -303,14 +303,12 @@ By reducing churn probability, we directly increase CLV, creating long-term valu
 
 ## 👤 Author
 
-**Lead Data Scientist** - Revenue & Churn Optimization Engine
+**Rene Guzman** - Revenue & Churn Optimization Engine
 
 ---
 
-## 📄 License
 
 This project is a portfolio demonstration of predictive modeling and economic analysis capabilities.
 
 ---
 
-**Built with ❤️ for data-driven business optimization**
