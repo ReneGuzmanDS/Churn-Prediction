@@ -1,6 +1,6 @@
 # Revenue & Churn Optimization Engine
 
-A production-level machine learning project focused on **Predictive Modeling for Customer Retention and Revenue Optimization** in Financial Services (Remittances) and Telecom industries.
+A production-level machine learning project focused on **Predictive Modeling for Customer Retention and Revenue Optimization**.
 
 ## 🎯 Project Overview
 
@@ -8,7 +8,7 @@ This project leverages advanced machine learning (Random Forest) to predict cust
 
 ### Business Value Proposition
 
-**Core Problem**: In remittance and telecom industries, customer churn represents a significant revenue loss. Traditional reactive retention strategies are costly and inefficient.
+**Core Problem**: Customer churn represents a significant revenue loss. Traditional reactive retention strategies are costly and inefficient.
 
 **Solution**: This predictive engine enables proactive identification of at-risk customers and data-driven optimization of pricing structures (fee percentages) based on customer price elasticity, resulting in:
 - **Reduced customer churn** through early intervention
